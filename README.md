@@ -1,6 +1,6 @@
 # Simulation Code
 
-This anonymous repository contains the Jupyter Notebook to reproduce the simulations and figures for our submission.
+This repository contains the Jupyter Notebook to reproduce the simulations and figures for our submission.
 
 ## Requirements
 To run this code, you will need Python installed along with the following libraries:
